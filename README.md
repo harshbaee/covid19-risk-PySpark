@@ -112,7 +112,7 @@ The pipeline is designed to be scalable across multiple deployment environments:
 - **Databricks** — batch inference with cloud object storage
 - **AWS EMR + S3** — flexible cluster configuration
 - **Azure Synapse Analytics** — integrated Spark pools with cloud analytics
-- **On-Premise Spark Cluster** — for strict data governance requirements
+- **On-Premise Spark Cluster** — for strict data governance requirements.
 
 ---
 
